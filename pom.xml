@@ -8,6 +8,7 @@
 	<name>SpringBootUsingChatGPTAI</name>
 	<description>Demo project for Integrating AI ChatGpt with Spring Boot</description>
 
+
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
