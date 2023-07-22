@@ -1,0 +1,14 @@
+#-------------------------
+# Swagger - OpenApi Configuration
+#-------------------------
+swagger:
+  openApi:
+    dev-url: http://localhost:8080
+
+#-------------------------------
+# OpenAI ChatGPT Properties
+#-------------------------------
+openai:
+  api-key: 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
+  api-url: https://api.openai.com/v1/chat/completions
+  model: gpt-3.5-turbo
